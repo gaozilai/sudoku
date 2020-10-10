@@ -1,4 +1,3 @@
 # sudoku
 
-input sudoku's puzzle,
-output the solution.
+Input sudoku's puzzle, output the solution.
