@@ -27,17 +27,17 @@ Pls input(space for blank): line 9 =     19  8
 
 
 Sudoku puzzle is:  
-_ _ 7&nbsp;&nbsp;&nbsp;6 _ 2&nbsp;&nbsp;&nbsp;9 _ _  
-_ 3 _  &nbsp;&nbsp;&nbsp; 1 _ _ &nbsp;&nbsp;&nbsp;  _ 8 6  
+_ _ 7 &nbsp;&nbsp;&nbsp;  6 _ 2 &nbsp;&nbsp;&nbsp;  9 _ _  
+_ 3 _ &nbsp;&nbsp;&nbsp;  1 _ _ &nbsp;&nbsp;&nbsp;  _ 8 6  
 _ 8 _ &nbsp;&nbsp;&nbsp;  9 _ 4 &nbsp;&nbsp;&nbsp;  _ _ _  
   
 _ 9 5 &nbsp;&nbsp;&nbsp; _ 4 _ &nbsp;&nbsp;&nbsp;  8 _ _  
 _ _ _ &nbsp;&nbsp;&nbsp; 3 9 _ &nbsp;&nbsp;&nbsp;  1 _ 5  
 7 _ 1 &nbsp;&nbsp;&nbsp; _ _ _ &nbsp;&nbsp;&nbsp;  _ 3 _  
   
-2 4 _ &nbsp;&nbsp;&nbsp; _ _ _&nbsp;&nbsp;&nbsp; _ _ 1  
-8 _ 6 &nbsp;&nbsp;&nbsp; _ _ 5&nbsp;&nbsp;&nbsp; _ 9 _  
-_ _ _ &nbsp;&nbsp;&nbsp; _ 1 9&nbsp;&nbsp;&nbsp; _ _ 8  
+2 4 _ &nbsp;&nbsp;&nbsp; _ _ _ &nbsp;&nbsp;&nbsp; _ _ 1  
+8 _ 6 &nbsp;&nbsp;&nbsp; _ _ 5 &nbsp;&nbsp;&nbsp; _ 9 _  
+_ _ _ &nbsp;&nbsp;&nbsp; _ 1 9 &nbsp;&nbsp;&nbsp; _ _ 8  
 
 
 solution 1:  
