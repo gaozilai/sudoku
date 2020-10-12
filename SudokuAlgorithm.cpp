@@ -191,6 +191,16 @@ bool CSudokuSolve::IfSolved()
     return bSolved;
 }
 
+/*****************************************************************
+ * \brief   
+ *          计算函数
+ *
+ * \param   [in]  pSudoku      puzzle
+ * \param   [in]  iBufferLen   length of pSudoku
+ * \param   [in]  iSolvesMax   max count of sulutions
+ *
+ * \retval  int  count of sulutions
+ ****************************************************************/
 int CSudokuSolve::Calculate(unsigned char* pSudoku, int iBufferLen, int iSolvesMax)
 {
     if (iBufferLen != 9*9) return 0;

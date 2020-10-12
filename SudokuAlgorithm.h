@@ -5,8 +5,11 @@
 class CSudokuSolve
 {
 public:
+    // 构造函数
     CSudokuSolve(void);
+	// 析构函数
     ~CSudokuSolve(void);
+	// 计算函数
     int Calculate(unsigned char* pSudoku, int iBufferLen, int iSolvesMax);
     unsigned char* GetSolve(int iIndex)
     {
